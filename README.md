@@ -3,4 +3,4 @@ Developing and testing new machine learning models for forecasting Electricity d
 
 A Data Science Project (EE461P) by Aarushi Ramesh, Anirudh Anasuri, Neeti Shah, Ryan Root
 
-Our Medium blog: 
+Our Medium blog: [link here](https://aarushiramesh.medium.com/forecasting-electric-power-demand-in-the-major-texas-cities-using-new-data-science-approaches-f48d9c79ba18)
