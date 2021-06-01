@@ -9,5 +9,6 @@ Files:
 - Model_Training.ipynb contains training and testing of Linear Regression/Polynomial Feature models
 - Data_Analysis0.ipynb contains data analysis of Region Dataset from ERCOT
 - merge_all_data.ipynb contains the process of data cleaning where the existing data was cleaned and merged into one data frame
-- preprocess.ipynb contains training and testing of CatBoost/boosting algorithms
+- preprocess.ipynb contains training and testing of CatBoost/boosting algorithms of the Austin Region
+- OtherRegionsModelApplications.ipynb contains training and testing of various boosting methods for the Houston and Dallas Regions
 - df is our Austin/South Central dataset
